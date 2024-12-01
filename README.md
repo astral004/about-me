@@ -1,2 +1,2 @@
 # AboutMe
-my portfolio
+This is my initial commit.
