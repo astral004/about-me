@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/about-me/static/css/main.30f6b9dd.css",
+    "main.js": "/about-me/static/js/main.baf26f89.js",
+    "static/media/gray-pic.jpg": "/about-me/static/media/gray-pic.6e7f2b2b0b2f1ee8ef6d.jpg",
+    "static/media/cap1-logo.png": "/about-me/static/media/cap1-logo.97bd95550483b6b13aa2.png",
+    "static/media/incyree-logo.png": "/about-me/static/media/incyree-logo.a83f5686ddafc1b2b03e.png",
+    "static/media/aws-logo.png": "/about-me/static/media/aws-logo.95533372dba8872a3ac8.png",
+    "static/media/energysage-logo.png": "/about-me/static/media/energysage-logo.7cb6f12f2c99f6ae7e97.png",
+    "static/media/pwc-logo.png": "/about-me/static/media/pwc-logo.056311e668cfac841dea.png",
+    "static/media/warning.svg": "/about-me/static/media/warning.366f3787d75dfc1972e4cf5732d212ae.svg",
+    "static/media/icon-github.svg": "/about-me/static/media/icon-github.376f746105559084ee856620094454e7.svg",
+    "index.html": "/about-me/index.html",
+    "static/media/icon-linkedin.svg": "/about-me/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
+    "main.30f6b9dd.css.map": "/about-me/static/css/main.30f6b9dd.css.map",
+    "main.baf26f89.js.map": "/about-me/static/js/main.baf26f89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f6b9dd.css",
+    "static/js/main.baf26f89.js"
+  ]
+}
