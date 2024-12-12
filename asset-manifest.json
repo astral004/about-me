@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.e301fb4e.css",
-    "main.js": "/about-me/static/js/main.f1340740.js",
+    "main.js": "/about-me/static/js/main.2be3e58e.js",
     "static/media/gray-pic.jpg": "/about-me/static/media/gray-pic.6e7f2b2b0b2f1ee8ef6d.jpg",
     "static/media/cap1-logo.png": "/about-me/static/media/cap1-logo.97bd95550483b6b13aa2.png",
     "static/media/incyree-logo.png": "/about-me/static/media/incyree-logo.a83f5686ddafc1b2b03e.png",
@@ -13,10 +13,10 @@
     "index.html": "/about-me/index.html",
     "static/media/icon-linkedin.svg": "/about-me/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
     "main.e301fb4e.css.map": "/about-me/static/css/main.e301fb4e.css.map",
-    "main.f1340740.js.map": "/about-me/static/js/main.f1340740.js.map"
+    "main.2be3e58e.js.map": "/about-me/static/js/main.2be3e58e.js.map"
   },
   "entrypoints": [
     "static/css/main.e301fb4e.css",
-    "static/js/main.f1340740.js"
+    "static/js/main.2be3e58e.js"
   ]
 }
