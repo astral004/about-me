@@ -18,7 +18,7 @@ const Timeline = () => {
         Experience
       </h1>
       <section className="max-w-6xl mx-auto mt-12 mb-16">
-        <VerticalTimeline lineColor="#1877F2">
+        <VerticalTimeline lineColor="#fff">
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "#272728", color: "#fff" }}
@@ -34,7 +34,6 @@ const Timeline = () => {
                 <img
                   src={pwcLogo}
                   alt="PwC Logo"
-                  style={{ height: "3rem", padding: ".5rem .5rem 0rem .5rem" }}
                 ></img>
               </a>
             }
@@ -63,8 +62,7 @@ const Timeline = () => {
             icon={
               <img
                 src={incyreeLogo}
-                alt="PwC Logo"
-                style={{ height: "3rem", padding: ".5rem .5rem 0rem .5rem" }}
+                alt="Incyree Logo"
               ></img>
             }
           >
@@ -98,7 +96,6 @@ const Timeline = () => {
                 <img
                   src={awsLogo}
                   alt="AWS Logo"
-                  style={{ height: "3rem", padding: ".7rem .5rem 0rem .5rem" }}
                 ></img>
               </a>
             }
@@ -133,7 +130,6 @@ const Timeline = () => {
                 <img
                   src={energySageLogo}
                   alt="EnergySage Logo"
-                  style={{ height: "3rem", padding: ".5rem .5rem 0rem .5rem" }}
                 ></img>
               </a>
             }
@@ -166,8 +162,7 @@ const Timeline = () => {
               >
                 <img
                   src={capital1Logo}
-                  alt="EnergySage Logo"
-                  style={{ height: "3rem", padding: ".5rem 0rem 0rem 0rem" }}
+                  alt="Capital One Logo"
                 ></img>
               </a>
             }
@@ -183,7 +178,7 @@ const Timeline = () => {
             </h4>
             <p className="text-[#bcbdc2]">
               Member of the payments teams responsible for processing and
-              reconciling 2 million files a day..
+              reconciling 2 million files a day.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

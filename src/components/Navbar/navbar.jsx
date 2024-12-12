@@ -8,8 +8,7 @@ const Navbar = () => {
   return (
     <section className="flex flex-col md:flex-row justify-between items-center w-full h-20 md:h-16 text-white px-8 max-w-7xl mx-auto">
       <div className="mb-2">
-        <h1 className="text-[#1877F2] text-5xl font-bold xs:mt-2 md:mt-0">kT1</h1>
-        {/* <img src={logo} alt="" /> */}
+        <h3 className="text-[#1877F2] text-5xl font-bold xs:mt-2 md:mt-0">kT1</h3>
       </div>
       <div class="relative inline-block text-center w-96 xs:mb-8 md:mb-0">
         <div class="flex md:mt-[-20px] absolute mb-9 w-96">
@@ -72,15 +71,6 @@ const Navbar = () => {
             <img src={linkedin} alt="linkedin" />
           </a>
         </li>
-        {/* <li className="px-4">
-          <a
-            href=""
-            rel="noreferrer"
-            target="_blank"
-          >
-            <img src={twitter} alt="twitter" />
-          </a>
-        </li> */}
       </ul>
     </section>
   );
