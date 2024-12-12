@@ -41,8 +41,11 @@ const Intro = () => {
               In my spare time, I love to experiment with data engineering
               projects. I am also an avid rock climber!
             </p>
-            <a href="" rel="noreferrer" target="_blank">
-              {/* TODO update the href */}
+            <a
+              href="https://drive.google.com/file/d/1vfgJuQ8HBeaTY9QsUy1-OYuffNGJgpTd/view?usp=sharing"
+              rel="noreferrer"
+              target="_blank"
+            >
               <button
                 className="bg-transparent
                       text-[#1877F2] font-semibold py-2 px-4 border bg-[#2b3945]
