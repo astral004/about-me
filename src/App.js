@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar/navbar";
 import Intro from "./components/Intro/intro";
 import Timeline from "./components/Experience/experience";
 import Footer from "./components/Footer/footer.jsx"
+import Contact from "./components/ContactMe/contact.jsx";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Intro />
       <Timeline/>
+      <Contact/>
       <Footer/>
     </div>
   );
