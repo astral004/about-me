@@ -30,7 +30,7 @@ const Navbar = () => {
           >
             Experience
           </Link>
-          {/* <Link
+          <Link
             to="projects"
             activeClass="active"
             smooth={true}
@@ -38,7 +38,7 @@ const Navbar = () => {
             className="flex-1 text-[#1877F2] rounded transition duration-500 py-2 text-md text-white hover:bg-[#1877F2] hover:text-white hover:cursor-pointer"
           >
             Projects
-          </Link> */}
+          </Link>
           <Link
             to="contact"
             activeClass="active"

@@ -42,7 +42,7 @@ const Intro = () => {
               projects. I am also an avid rock climber!
             </p>
             <a
-              href="https://drive.google.com/file/d/1vfgJuQ8HBeaTY9QsUy1-OYuffNGJgpTd/view?usp=sharing"
+              href="https://drive.google.com/file/d/16cpWWsolQlvNz-lbsIuNC_9jgojCQvnp/view?usp=sharing"
               rel="noreferrer"
               target="_blank"
             >

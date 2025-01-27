@@ -50,7 +50,10 @@ const Timeline = () => {
             <p className="text-[#bcbdc2]">
               Focusing on ETL processes, data integration, and data
               normalization to modernize the payment intiation platform known as
-              Payment Hub at State Street.
+              Payment Hub at State Street. <br/>
+              •	Developed and maintained ETL processes to integrate more than 1,000,000 records into the new database, ensuring data accuracy and consistency <br/>
+              •	Implemented data validation and transformation logic using Python and Pandas to mitigate data loss during migration and reduce transformation time by 70%
+
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -78,7 +81,10 @@ const Timeline = () => {
             <p className="text-[#bcbdc2]">
               Contributing to the development and deployment of a social media
               website that helps users share their expertise to solve problems
-              and earn rewards.
+              and earn rewards.<br/>
+              •	Integrated Stripe payment services using TypeScript, JavaScript, MongoDB, and webhook ingestion to seamlessly facilitate payments and provide payouts to users with a cloud-native API-first approach.<br/>
+              •	Designed and provisioned 4-tier distributed infrastructure required for hosting the website on AWS. This included setting up EC2 servers, DNS routing using Route53, multiple firewalls using Security Groups, load balancing via ALBs, and a nginx reverse proxy to establish a cloud based production environment.
+
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -112,7 +118,10 @@ const Timeline = () => {
             <p className="text-[#bcbdc2]">
               Part of the team responsible for maintaining the secure data
               migrations service, onboarded to a cloud based application
-              configuration utility.
+              configuration utility.<br/>
+              •	Provided pipeline configuration details to define the one-box stage, the dev deployment stage, and the prod deployment stage in multiple regions of the AWS content delivery network to onboard Datasync to AWS AppConfig.<br/>
+              •	Integration of a throttling utility with AWS AppConfig to be able to dynamically update API throttling limits to prevent bottlenecking and denial-of-service.
+
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -145,7 +154,10 @@ const Timeline = () => {
             </h4>
             <p className="text-[#bcbdc2]">
               Part of the platform team focused on infrastructure provisioning,
-              configuration, and maintenance.
+              configuration, and maintenance.<br/>
+              • Worked with the AWS CDK to automate infrastructure releases to phase out manual deployments and reduce manual engineering labor.<br/>
+              • Developed an AWS Lambda responsible for auto-rollbacks when Datadog’s API reported an excessive number of errors.<br/>
+              • Deployed an S3 based static frontend using the AWS CDK as part of a prototype.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -178,7 +190,11 @@ const Timeline = () => {
             </h4>
             <p className="text-[#bcbdc2]">
               Member of the payments teams responsible for processing and
-              reconciling 2 million files a day.
+              reconciling 2 million files a day.<br/>
+              •	Performed an ETL of 3,000,000 records from a legacy system into Cassandra database to be able to check if Bank Routing numbers need to be swapped to reduce fees incurred by NOCs by 80%.<br/>
+              •	Engineered an Apache Spark driven application to query Cassandra for a set of 45,000 files and confirm they were processed to automate the end-of-day payment posting which saved 3 hours of manual work every night.<br/>
+              •	Experienced in writing integration tests with automated test-driven development using Java/Cucumber and unit tests using Jacoco plugin integrated with SonarQube.
+
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
