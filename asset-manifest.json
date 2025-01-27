@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/about-me/static/css/main.e301fb4e.css",
-    "main.js": "/about-me/static/js/main.aebb3aba.js",
+    "main.css": "/about-me/static/css/main.2d42d23e.css",
+    "main.js": "/about-me/static/js/main.55b5d146.js",
+    "static/media/favoritesExample.png": "/about-me/static/media/favoritesExample.23e6aa4854529a1611ea.png",
     "static/media/gray-pic.jpg": "/about-me/static/media/gray-pic.6e7f2b2b0b2f1ee8ef6d.jpg",
+    "static/media/data-pipeline-sys-arch.png": "/about-me/static/media/data-pipeline-sys-arch.a679e9f602dec1abe4e0.png",
+    "static/media/springBoot.png": "/about-me/static/media/springBoot.8a9f9893ffdd4e6ff1e2.png",
     "static/media/cap1-logo.png": "/about-me/static/media/cap1-logo.97bd95550483b6b13aa2.png",
     "static/media/incyree-logo.png": "/about-me/static/media/incyree-logo.a83f5686ddafc1b2b03e.png",
     "static/media/aws-logo.png": "/about-me/static/media/aws-logo.95533372dba8872a3ac8.png",
+    "static/media/system-arch.png": "/about-me/static/media/system-arch.c550f4e11e1d3f12382b.png",
     "static/media/energysage-logo.png": "/about-me/static/media/energysage-logo.7cb6f12f2c99f6ae7e97.png",
     "static/media/pwc-logo.png": "/about-me/static/media/pwc-logo.056311e668cfac841dea.png",
     "static/media/warning.svg": "/about-me/static/media/warning.366f3787d75dfc1972e4cf5732d212ae.svg",
     "static/media/icon-github.svg": "/about-me/static/media/icon-github.376f746105559084ee856620094454e7.svg",
     "index.html": "/about-me/index.html",
     "static/media/icon-linkedin.svg": "/about-me/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
-    "main.e301fb4e.css.map": "/about-me/static/css/main.e301fb4e.css.map",
-    "main.aebb3aba.js.map": "/about-me/static/js/main.aebb3aba.js.map"
+    "main.2d42d23e.css.map": "/about-me/static/css/main.2d42d23e.css.map",
+    "main.55b5d146.js.map": "/about-me/static/js/main.55b5d146.js.map"
   },
   "entrypoints": [
-    "static/css/main.e301fb4e.css",
-    "static/js/main.aebb3aba.js"
+    "static/css/main.2d42d23e.css",
+    "static/js/main.55b5d146.js"
   ]
 }
