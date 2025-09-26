@@ -10,6 +10,7 @@ import incyreeLogo from "../../assets/incyree-logo.png";
 import awsLogo from "../../assets/aws-logo.png";
 import energySageLogo from "../../assets/energysage-logo.png";
 import capital1Logo from "../../assets/cap1-logo.png";
+import ukgLogo from "../../assets/ukg-logo.png"
 
 const Timeline = () => {
   return (
@@ -19,11 +20,49 @@ const Timeline = () => {
       </h1>
       <section className="max-w-6xl mx-auto mt-12 mb-16">
         <VerticalTimeline lineColor="#fff">
+        <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "#272728", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  #272728" }}
+            date="March 2024 — Present"
+            iconStyle={{ background: "white", color: "#fff" }}
+            icon={
+              <a
+                href="https://www.ukg.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={ukgLogo}
+                  alt="UKG Logo"
+                ></img>
+              </a>
+            }
+          >
+            <h3 className="vertical-timeline-element-title !important text-[#d9dade] text-2xl text-bold decoration-[#4EE1A0] font-bold">
+              Software Development Engineer II
+            </h3>
+            <h3 className="vertical-timeline-element-title text-[#d9dade]">
+              UKG
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle text-[#d9dade]">
+              <i class="fa-solid fa-location-dot"></i> Boston, MA
+            </h4>
+            <p className="text-[#bcbdc2]">
+              Built a low-latency event-driven system (sub-5s latency) 
+              to process change data capture (CDC) events, 
+              enrich with entity data, and publish to Kafka for 
+              downstream analytics and insight generation. <br/>
+              •	Implemented GCP Datastream multisharding of up to 5 real time streams per customer to reduce data staleness from 4 hours to 30 seconds to enable faster insight generation for customers and Business Analytics teams <br/>
+              •	Leveraged GCP Dataflow to consume events from a single Kafka topic, enrich each event with information from the full record, and publish downstream to multiple domain specific Kafka topics
+
+            </p>
+          </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "#272728", color: "#fff" }}
             contentArrowStyle={{ borderRight: "7px solid  #272728" }}
-            date="January 2024 — Present"
+            date="January 2024 — March 2024"
             iconStyle={{ background: "white", color: "#fff" }}
             icon={
               <a
